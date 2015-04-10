@@ -1,0 +1,11 @@
+*** Debugging ***
+<?php echo get_template_directory() ?>
+<?php echo get_template_directory_uri() ?>
+<?php echo get_stylesheet_directory() ?> 
+<?php echo get_stylesheet_directory_uri() ?> 
+
+
+*** Amazon Stuff ***
+private $public_key     = "AKIAI5HDVJ76AXGIWTHQ";
+private $private_key    = "bd2Hgm8yQcyBnp9ypF33SCXk6hzxIhEpc7meTsF7";
+private $associate_tag  = "rasppituto-20";

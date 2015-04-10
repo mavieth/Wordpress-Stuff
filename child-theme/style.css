@@ -1,0 +1,12 @@
+/*
+ Theme Name:   parent-child
+ Template:     parent
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, three-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  parent-child
+*/
+
+@import url("../parent/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
